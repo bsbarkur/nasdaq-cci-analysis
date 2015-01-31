@@ -25,6 +25,6 @@ http://www.nasdaq.com/symbol/oneq/historical
 
 # NASDAQ CCI Volatility for 2007
 	
-	![Alt text](nasdaq_cci_2007.png?raw=true "Volatility of CCI for Year 2007")
+![Alt text](nasdaq_cci_2007.png?raw=true "Volatility of CCI for Year 2007")
 
 
